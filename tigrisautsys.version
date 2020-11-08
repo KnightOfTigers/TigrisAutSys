@@ -13,7 +13,7 @@
     #"masterVersionFile":"https://github.com/LazyWizard/VersionChecker/blob/master/versionchecker.version",
     #"masterVersionFile":"https://github.com/LazyWizard/VersionChecker/releases/download/0.1/versionchecker.version",
     #"masterVersionFile":"https://bitbucket.org/LazyWizard/version-checker/raw/tip/versionchecker.version",
-    "masterVersionFile":"https://bitbucket.org/KnightOfTigers/the-galaxy-tigers/downloads/galaxytigers.version",
+    "masterVersionFile":"https://github.com/KnightOfTigers/TigrisAutSys/blob/main/tigrisautsys.version",
     # The name that is displayed in-game for your mod
     "modName":"Tigris Automated Systems",
     # The ID of the thread where updates to this mod can be found (optional).
